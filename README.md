@@ -1,8 +1,8 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fvirtual-event-starter-kit&project-name=virtual-event-starter-kit&repository-name=virtual-event-starter-kit&demo-title=Virtual%20Event%20Starter%20Kit&demo-description=Jumpstart%20your%20virtual%20event%20and%20scale%20to%20any%20size%20with%20Next.js%20and%20Vercel.&demo-url=https%3A%2F%2Fdemo.vercel.events%2F&demo-image=https%3A%2F%2Fdemo.vercel.events%2Fdeploy.png&integration-ids=oac_I1h8Dm9Mf30VNb3xQ0hebYvS&external-id=%7B%22manifest%22%3A%20%22https%3A%2F%2Fraw.githubusercontent.com%2Fvercel%2Fvirtual-event-starter-kit%2Fmain%2Fdatocms.json%22%7D)
 
-# [Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit)
+# [Virtual Event Starter Kit]
 
-### Demo: https://demo.vercel.events
+### Demo: 
 
 This virtual event starter kit was used to run [Next.js Conf 2020](https://nextjs.org/2020/conf), which had almost 40,000 live attendees. It includes the following features:
 
@@ -317,4 +317,4 @@ export default async function getDiscordMessage(req: NextApiRequest, res: NextAp
 
 ### Demo
 
-The demo is available at https://demo.vercel.events. The data recorded or used on the demo may be removed by Vercel at any point.
+The demo is available at . The data recorded or used on the demo may be removed by Vercel at any point.
